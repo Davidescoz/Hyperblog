@@ -1,5 +1,4 @@
 Hola soy David  
 
-Estoy aprendiendo a manejar mis repositorios con platzi (Y)
+Estoy aprendiendo Git y GitHub con platzi
 
-Esto es un bacaneria mi so
