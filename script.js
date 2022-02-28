@@ -1,14 +1,12 @@
-var objectModel=[
-    {pan:"Oregano",salsas:"De la casa",carne:"Atun"},
-    {pan:"Trigo",salsas:"De la casa",carne:"Pechuga"},
-    {pan:"Bimbo",salsas:"De la casa",carne:"Costillas"},
-    {pan:"Especias",salsas:"De la casa",carne:"Milanesa"}
+var ingredientes=[
+    {pan:"Arabe", costo:20},
+    {carne:"Res",costo:70},
+    {picante:"Habanero",costo:30},
+    {salsa:"Guacamole",costo:20},
 ]
 
-objectModel.find(function(filtrar){
-    console.log(filtrar.pan==="Oregano");
+ingredientes.forEach(function(costoTaco){
+    resultado=costoTaco.costo+costoTaco.costo;
+    console.log(resultado);
 })
 
-objectModel.map(function(buscarSalsa){
-    console.log(buscarSalsa)
-})

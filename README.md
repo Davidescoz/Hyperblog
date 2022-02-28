@@ -1,1 +1,1 @@
-# Modificando mi readme.md
+# No existe tal cosa como la verdad en momentos de guerra, solo existe la peste de la carne, la maldicion universal.
